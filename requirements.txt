@@ -1,0 +1,7 @@
+ortools
+langgraph
+langchain
+langchain-google-genai
+streamlit
+python-dotenv
+pytest
